@@ -12,3 +12,6 @@ reconstruction of map US air traffic control tower shows an interesting aspect o
 how traffic control tower being placed and built in the USA. To construct a good
 map, we use QGIS softwares to provide the extra access for webmap. Moreover, it
 shows that most of the US airports had an non-equal density of air traffic distribution.
+On this map, we are also break the airports traffic numbers in range of 35 --- 0.
+A choropleth layer is created to show the color palette according to states. Such
+a mechanics benefits the easy look at the distribution across the US continents. 
